@@ -21,7 +21,7 @@ The `Auxiliary` class provides auxiliary functions for tree manipulation, such a
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/inverted-binary-tree.git
+git clone https://github.com/Eran-Levy-git/inverted-binary-tree.git
 ```
 
 Import the required classes and functions:
